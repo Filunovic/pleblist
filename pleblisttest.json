@@ -1,8 +1,8 @@
 {
   {
-    "room": "Náš Pleblist 2",
+    "room": "Nas Pleblist 2",
     "author": "Filunovic PogO",
-    "icon": "https://cdn.radiant.dj/rcs/icons/radiant/logo.png", //pøidat ikonu Agraela
+    "icon": "https://cdn.radiant.dj/rcs/icons/radiant/logo.png", 
     "css": null,
     "rules": {
       "allowAutorespond": true,
