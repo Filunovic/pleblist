@@ -36,7 +36,7 @@
     "manager": "https://cdn.discordapp.com/attachments/728370089258123265/728396058878803969/mod.jpg",
     "bouncer": "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
     "rdj": "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
-    "subscriber": "https://cdn.discordapp.com/attachments/728370089258123265/728370119201259530/AgrE.jpg",
+    "subscriber": null,
     "silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
   },
   "emotes": {
