@@ -27,15 +27,15 @@
     "user": "#B6BFB6"
   },
   "images": {
-    "background": null,
+    "background": "https://cdn.discordapp.com/attachments/728370089258123265/728617411942678588/WIPbackground3.png",
     "playback": null,
     "admin": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
     "ambassador": "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
     "host": "https://cdn.discordapp.com/attachments/728370089258123265/728373662712987761/admin.png",
     "cohost": "https://cdn.discordapp.com/attachments/728370089258123265/728395406601355315/manager.png",
-    "manager": "https://cdn.discordapp.com/attachments/728370089258123265/728396058878803969/mod.jpg",
-    "bouncer": "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
-    "rdj": "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
+    "manager": "https://cdn.discordapp.com/attachments/728370089258123265/728601650536906803/mod2.jpg",
+    "bouncer": "https://cdn.discordapp.com/attachments/728370089258123265/728600505349177455/mod.jpg",
+    "rdj": "https://cdn.discordapp.com/attachments/728370089258123265/728600509564583977/VIP.png",
     "subscriber": null,
     "silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
   },
