@@ -1,0 +1,45 @@
+{
+  "room": "Nas Pleblist 2",
+  "author": "Filunovic PogO",
+  "icon": "https://cdn.discordapp.com/attachments/728370089258123265/728398564425728060/AgrE.jpg",
+  "css": null,
+  "rules": {
+    "allowAutorespond": true,
+    "allowAutowoot": true,
+    "allowAutojoin": true,
+    "allowAutograb": true,
+    "allowSmartVote": true,
+    "allowEmotes": true,
+    "allowShowingMehs": true,
+    "forceSmartVote": false
+  },
+  "ccc": {
+    "admin": "#FF3636",
+    "ambassador": "88E374",
+    "host": "#0B61B3",
+    "cohost": "#69B6FF",
+    "manager": "#049121",
+    "bouncer": "#3ACF58",
+    "rdj": "#9738E0",
+    "subscriber": "#F0CF4A",
+    "silversubscriber": "#F0CF4A",
+    "friend": "#B35D88",
+    "user": "#B6BFB6"
+  },
+  "images": {
+    "background": "https://cdn.discordapp.com/attachments/728370089258123265/728599075523657808/WIPbackground.png",
+    "playback": null,
+    "admin": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
+    "ambassador": "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
+    "host": "https://cdn.discordapp.com/attachments/728370089258123265/728373662712987761/admin.png",
+    "cohost": "https://cdn.discordapp.com/attachments/728370089258123265/728395406601355315/manager.png",
+    "manager": "https://cdn.discordapp.com/attachments/728370089258123265/728601650536906803/mod2.jpg",
+    "bouncer": "https://cdn.discordapp.com/attachments/728370089258123265/728600505349177455/mod.jpg",
+    "rdj": "https://cdn.discordapp.com/attachments/728370089258123265/728600509564583977/VIP.png",
+    "subscriber": null,
+    "silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
+  },
+  "emotes": {
+    "eshrug": "https://cdn.discordapp.com/attachments/728370089258123265/728403216223567924/eshrug.png"
+  }
+}
