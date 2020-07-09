@@ -5,7 +5,7 @@
   "css": null,
   "rules": {
     "allowAutorespond": true,
-    "allowAutowoot": true,
+    "allowAutowoot": false,
     "allowAutojoin": true,
     "allowAutograb": true,
     "allowSmartVote": true,
@@ -69,7 +69,9 @@
     "namkool": "https://i.imgur.com/5OCLRnO.gif",
     "forstynpls": "https://i.imgur.com/JW2mHPq.gif",
     "agre": "https://i.imgur.com/NFGoYdr.png",
-    "filufeelsdankman": "https://i.imgur.com/6ppYif2.png"
+    "filufeelsdankman": "https://i.imgur.com/6ppYif2.png",
+    "veruc": "https://i.imgur.com/8xcaE6Z.png",
+    "pettheveru": "https://i.imgur.com/dignVDh.gif"
 
 
   }
