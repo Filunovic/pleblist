@@ -2,7 +2,7 @@
   "room": "Nas Pleblist 2",
   "author": "Filunovic PogO",
   "icon": "https://cdn.discordapp.com/attachments/728370089258123265/728398564425728060/AgrE.jpg",
-  "css": "https://edm-spot.github.io/main.css",
+  "css": "https://raw.githubusercontent.com/Filunovic/pleblist/master/theme.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot": false,
@@ -78,10 +78,10 @@
     "veru4": "https://i.imgur.com/c0W9BHv.png",
     "verucd": "https://i.imgur.com/S9s47z2.png",
     "hypers": "https://i.imgur.com/qliRFTP.png",
-    "pepeds": "https://i.imgur.com/On4c4uL.gif", 
-    "peped": "https://i.imgur.com/QIcXMBU.gif", 
-    "headbang": "https://i.imgur.com/crCLruz.gif", 
-    "pogu": "https://i.imgur.com/Cf4rfCK.png" 
+    "pepeds": "https://i.imgur.com/On4c4uL.gif",
+    "peped": "https://i.imgur.com/QIcXMBU.gif",
+    "headbang": "https://i.imgur.com/crCLruz.gif",
+    "pogu": "https://i.imgur.com/Cf4rfCK.png"
 
 
   }
