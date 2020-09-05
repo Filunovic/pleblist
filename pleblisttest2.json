@@ -1,11 +1,11 @@
 {
-  "room": "Nas Pleblist 2",
-  "author": "Filunovic PogO",
+  "room": "Nas Pleblist",
+  "author": "Filunovic",
   "icon": "https://cdn.discordapp.com/attachments/728370089258123265/728398564425728060/AgrE.jpg",
   "css": null,
   "rules": {
     "allowAutorespond": true,
-    "allowAutowoot": false,
+    "allowAutowoot": true,
     "allowAutojoin": true,
     "allowAutograb": true,
     "allowSmartVote": true,
@@ -174,7 +174,8 @@
     "arnoldhalt": "https://i.imgur.com/m3VsVmL.png",
     "billyready": "https://i.imgur.com/dQbuc5e.gif",
     "agrclown": "https://i.imgur.com/dIqPu17.png",
-	"vavrajam": " https://i.imgur.com/icO6ApN.gif"
+	"vavrajam": " https://i.imgur.com/icO6ApN.gif",
+	"hyperkong": "https://i.imgur.com/JJ81O18.gif"
 
 
 
