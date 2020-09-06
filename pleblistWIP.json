@@ -2,7 +2,7 @@
   "room": "Nas Pleblist 2",
   "author": "Filunovic PogO",
   "icon": "https://cdn.discordapp.com/attachments/728370089258123265/728398564425728060/AgrE.jpg",
-  "css": null,
+  "css": "https://raw.githubusercontent.com/Filunovic/pleblist/master/badges.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot": false,
