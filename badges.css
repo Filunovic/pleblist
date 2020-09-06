@@ -1,0 +1,724 @@
+/* Custom Badges */
+
+/* General */
+#chat .badge-box i,
+.right-side-wrapper #chat .badge-box .icon-arrow-down {
+    transform: scale(1) !important;
+}
+
+#chat-messages .badge-box {
+    background: none !important;
+}
+
+/* Filunovic */
+#chat-messages .id-15296765 .badge-box {
+    width: 30px;
+    height: 30px;
+    transition: 0.5s;
+}
+
+    #chat-messages .id-15296765 .badge-box:hover {
+        width: 65px;
+        height: 65px;
+        transition: 0.5s;
+    }
+
+    /*User Badge*/
+    #user-rollover.id-15296765 .badge-box i.bdg,
+    #chat-messages .id-15296765 .badge-box i.bdg {
+        background-image: url("https://i.imgur.com/TTuZa8k.gif");
+        background-size: cover;
+        border-radius: 7px;
+        width: 100%;
+        height: 100%;
+        background-position: initial;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+/*User Background*/
+.cm.id-15296765::before {
+    background-image: url("https://i.imgur.com/b4OyN8c.png");
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.4;
+    z-index: -1;
+    transition: 0.4s;
+}
+
+/* xQc */
+#chat-messages .id-37147238 .badge-box {
+    width: 30px;
+    height: 30px;
+    transition: 0.5s;
+}
+
+    #chat-messages .id-37147238 .badge-box:hover {
+        width: 65px;
+        height: 65px;
+        transition: 0.5s;
+    }
+
+    /*User Badge*/
+    #user-rollover.id-37147238 .badge-box i.bdg,
+    #chat-messages .id-37147238 .badge-box i.bdg {
+        background-image: url("https://i.imgur.com/Sp7GV5H.gif");
+        background-size: cover;
+        border-radius: 7px;
+        width: 100%;
+        height: 100%;
+        background-position: initial;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+/*User Background*/
+.cm.id-37147238::before {
+    background-image: url("https://i.imgur.com/OASwQC0.png");
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    z-index: -1;
+    transition: 0.4s;
+}
+
+/* Harry_McKenzie */
+#chat-messages .id-37218461 .badge-box {
+    width: 30px;
+    height: 30px;
+    transition: 0.5s;
+}
+
+    #chat-messages .id-37218461 .badge-box:hover {
+        width: 65px;
+        height: 65px;
+        transition: 0.5s;
+    }
+
+    /*User Badge*/
+    #user-rollover.id-37218461 .badge-box i.bdg,
+    #chat-messages .id-37218461 .badge-box i.bdg {
+        background-image: url("https://i.imgur.com/1bBaIDx.png");
+        background-size: cover;
+        border-radius: 7px;
+        width: 100%;
+        height: 100%;
+        background-position: initial;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+/*User Background
+.cm.id-37218461::before {
+    background-image: url("https://i.imgur.com/T9mflGN.png");
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    z-index: -1;
+    transition: 0.4s;
+}
+*/
+/* BounceBot - SCUFFED */
+#chat-messages .id-40471126 .badge-box {
+    width: 30px;
+    height: 30px;
+    transition: 0.5s;
+}
+
+    #chat-messages .id-40471126 .badge-box:hover {
+        width: 65px;
+        height: 65px;
+        transition: 0.5s;
+    }
+
+    /*User Badge*/
+    #user-rollover.id-40471126 .badge-box i.bdg,
+    #chat-messages .id-40471126 .badge-box i.bdg {
+        background-image: url("https://i.imgur.com/sNRO3ye.png");
+        background-size: cover;
+        border-radius: 7px;
+        width: 100%;
+        height: 100%;
+        background-position: initial;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+/*User Background*/
+.cm.id-40471126::before {
+    background-image: url("");
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.1;
+    z-index: -1;
+    transition: 0.4s;
+}
+
+/* Baddra93 */
+#chat-messages .id-38773628 .badge-box {
+    width: 30px;
+    height: 30px;
+    transition: 0.5s;
+}
+
+    #chat-messages .id-38773628 .badge-box:hover {
+        width: 65px;
+        height: 65px;
+        transition: 0.5s;
+    }
+
+    /*User Badge*/
+    #user-rollover.id-38773628 .badge-box i.bdg,
+    #chat-messages .id-38773628 .badge-box i.bdg {
+        background-image: url("https://i.imgur.com/3FZLdrG.gif");
+        background-size: cover;
+        border-radius: 7px;
+        width: 100%;
+        height: 100%;
+        background-position: initial;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+/*User Background*/
+.cm.id-38773628::before {
+    background-image: url("");
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.1;
+    z-index: -1;
+    transition: 0.4s;
+}
+
+/* MoistSalt */
+#chat-messages .id-37224716 .badge-box {
+    width: 30px;
+    height: 30px;
+    transition: 0.5s;
+}
+
+    #chat-messages .id-37224716 .badge-box:hover {
+        width: 65px;
+        height: 65px;
+        transition: 0.5s;
+    }
+
+    /*User Badge*/
+    #user-rollover.id-37224716 .badge-box i.bdg,
+    #chat-messages .id-37224716 .badge-box i.bdg {
+        background-image: url("https://i.imgur.com/4wQiCiJ.gif");
+        background-size: cover;
+        border-radius: 7px;
+        width: 100%;
+        height: 100%;
+        background-position: initial;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+/*User Background*/
+.cm.id-37224716::before {
+    background-image: url("");
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.1;
+    z-index: -1;
+    transition: 0.4s;
+}
+
+/* SlyVII */
+#chat-messages .id-11556348 .badge-box {
+    width: 30px;
+    height: 30px;
+    transition: 0.5s;
+}
+
+    #chat-messages .id-11556348 .badge-box:hover {
+        width: 65px;
+        height: 65px;
+        transition: 0.5s;
+    }
+
+    /*User Badge*/
+    #user-rollover.id-11556348 .badge-box i.bdg,
+    #chat-messages .id-11556348 .badge-box i.bdg {
+        background-image: url("https://i.imgur.com/4E79Osz.png");
+        background-size: cover;
+        border-radius: 7px;
+        width: 100%;
+        height: 100%;
+        background-position: initial;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+/*User Background*/
+.cm.id-11556348::before {
+    background-image: url("https://i.imgur.com/f4qI9wp.gif");
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+    z-index: -1;
+    transition: 0.4s;
+}
+
+/* 808ref */
+#chat-messages .id-43911460 .badge-box {
+    width: 30px;
+    height: 30px;
+    transition: 0.5s;
+}
+
+    #chat-messages .id-43911460 .badge-box:hover {
+        width: 65px;
+        height: 65px;
+        transition: 0.5s;
+    }
+
+    /*User Badge*/
+    #user-rollover.id-43911460 .badge-box i.bdg,
+    #chat-messages .id-43911460 .badge-box i.bdg {
+        background-image: url("https://i.imgur.com/AtrRJOp.png");
+        background-size: cover;
+        border-radius: 7px;
+        width: 100%;
+        height: 100%;
+        background-position: initial;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+/*User Background*/
+.cm.id-43911460::before {
+    background-image: url("https://i.imgur.com/Dhjzp0y.gif");
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.4;
+    z-index: -1;
+    transition: 0.4s;
+}
+
+/* MrDerf */
+#chat-messages .id-41485803 .badge-box {
+    width: 30px;
+    height: 30px;
+    transition: 0.5s;
+}
+
+    #chat-messages .id-41485803 .badge-box:hover {
+        width: 65px;
+        height: 65px;
+        transition: 0.5s;
+    }
+
+    /*User Badge*/
+    #user-rollover.id-41485803 .badge-box i.bdg,
+    #chat-messages .id-41485803 .badge-box i.bdg {
+        background-image: url("https://i.imgur.com/8r9a7Sj.gif");
+        background-size: cover;
+        border-radius: 7px;
+        width: 100%;
+        height: 100%;
+        background-position: initial;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+/*User Background*/
+.cm.id-41485803::before {
+    background-image: url("https://i.imgur.com/iWR8AxH.gif");
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+    z-index: -1;
+    transition: 0.4s;
+}
+
+/* NamelessHoboPony */
+#chat-messages .id-37503257 .badge-box {
+    width: 0px;
+    height: 0px;
+    transition: 0.5s;
+}
+
+    #chat-messages .id-37503257 .badge-box:hover {
+        width: 0px;
+        height: 0px;
+        transition: 0.5s;
+    }
+
+    /*User Badge*/
+    #user-rollover.id-37503257 .badge-box i.bdg,
+    #chat-messages .id-37503257 .badge-box i.bdg {
+        background-image: url("");
+        background-size: cover;
+        border-radius: 7px;
+        width: 100%;
+        height: 100%;
+        background-position: initial;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+/*User Background*/
+.cm.id-37503257::before {
+    background-image: url("https://i.imgur.com/jmvghC6.gif");
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+    z-index: -1;
+    transition: 0.4s;
+}
+
+/* Ageless */
+#chat-messages .id-37174830 .badge-box {
+    width: 30px;
+    height: 30px;
+    transition: 0.5s;
+}
+
+    #chat-messages .id-37174830 .badge-box:hover {
+        width: 65px;
+        height: 65px;
+        transition: 0.5s;
+    }
+
+    /*User Badge*/
+    #user-rollover.id-37174830 .badge-box i.bdg,
+    #chat-messages .id-37174830 .badge-box i.bdg {
+        background-image: url("https://i.imgur.com/lA8xIkX.png");
+        background-size: cover;
+        border-radius: 7px;
+        width: 100%;
+        height: 100%;
+        background-position: initial;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+/*User Background*/
+.cm.id-37174830::before {
+    background-image: url("https://i.imgur.com/ajzLMPU.jpg");
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+    z-index: -1;
+    transition: 0.4s;
+}
+
+/* Haise */
+#chat-messages .id-38607903 .badge-box {
+    width: 30px;
+    height: 30px;
+    transition: 0.5s;
+}
+
+    #chat-messages .id-38607903 .badge-box:hover {
+        width: 65px;
+        height: 65px;
+        transition: 0.5s;
+    }
+
+    /*User Badge*/
+    #user-rollover.id-38607903 .badge-box i.bdg,
+    #chat-messages .id-38607903 .badge-box i.bdg {
+        background-image: url("https://i.imgur.com/vUhnTA4.png");
+        background-size: cover;
+        border-radius: 7px;
+        width: 100%;
+        height: 100%;
+        background-position: initial;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+/*User Background*/
+.cm.id-38607903::before {
+    background-image: url("");
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.1;
+    z-index: -1;
+    transition: 0.4s;
+}
+/* Mileena */
+#chat-messages .id-42675536 .badge-box {
+    width: 30px;
+    height: 30px;
+    transition: 0.5s;
+}
+
+    #chat-messages .id-42675536 .badge-box:hover {
+        width: 65px;
+        height: 65px;
+        transition: 0.5s;
+    }
+
+    /*User Badge*/
+    #user-rollover.id-42675536 .badge-box i.bdg,
+    #chat-messages .id-42675536 .badge-box i.bdg {
+        background-image: url("https://i.imgur.com/3wAIvAn.gif");
+        background-size: cover;
+        border-radius: 7px;
+        width: 100%;
+        height: 100%;
+        background-position: initial;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+/*User Background*/
+.cm.id-42675536::before {
+    background-image: url("https://i.imgur.com/L66t0EX.gif");
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    z-index: -1;
+    transition: 0.4s;
+}
+
+/* Discrested */
+#chat-messages .id-45541957 .badge-box {
+    width: 30px;
+    height: 30px;
+    transition: 0.5s;
+}
+
+    #chat-messages .id-45541957 .badge-box:hover {
+        width: 65px;
+        height: 65px;
+        transition: 0.5s;
+    }
+
+    /*User Badge*/
+    #user-rollover.id-45541957 .badge-box i.bdg,
+    #chat-messages .id-45541957 .badge-box i.bdg {
+        background-image: url("https://i.imgur.com/Olle3CW.png");
+        background-size: cover;
+        border-radius: 7px;
+        width: 100%;
+        height: 100%;
+        background-position: initial;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+/*User Background*/
+.cm.id-45541957::before {
+    background-image: url("https://i.imgur.com/agjUmbY.gif");
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 1.0;
+    z-index: -1;
+    transition: 0.4s;
+}
+
+/*Frynaut*/
+/*User Background*/
+.cm.id-424349::before {
+    background-image: url("https://i.imgur.com/h2PtyQi.gif");
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.4;
+    z-index: -1;
+    transition: 0.4s;
+}
+
+/* lennox */
+#chat-messages .id-41096019 .badge-box {
+    width: 30px;
+    height: 30px;
+    transition: 0.5s;
+}
+
+    #chat-messages .id-41096019 .badge-box:hover {
+        width: 65px;
+        height: 65px;
+        transition: 0.5s;
+    }
+
+    /*User Badge*/
+    #user-rollover.id-41096019 .badge-box i.bdg,
+    #chat-messages .id-41096019 .badge-box i.bdg {
+        background-image: url("https://i.imgur.com/jnNAEhn.jpg");
+        background-size: cover;
+        border-radius: 7px;
+        width: 100%;
+        height: 100%;
+        background-position: initial;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+
+/*User Background*/
+.cm.id-41096019::before {
+    background-image: url("https://i.imgur.com/svc6dtB.gif");
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.6;
+    z-index: -1;
+    transition: 0.4s;
+}
+
+/* Jeebs */
+#chat-messages .id-4183714 .badge-box {
+    width: 30px;
+    height: 30px;
+    transition: 0.5s;
+}
+
+    #chat-messages .id-4183714 .badge-box:hover {
+        width: 65px;
+        height: 65px;
+        transition: 0.5s;
+    }
+
+    /*User Badge*/
+    #user-rollover.id-4183714 .badge-box i.bdg,
+    #chat-messages .id-4183714 .badge-box i.bdg {
+        background-image: url("https://i.imgur.com/toyCTdT.png");
+        background-size: cover;
+        border-radius: 7px;
+        width: 100%;
+        height: 100%;
+        background-position: initial;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+/*User Background*/
+.cm.id-4183714::before {
+    background-image: url("https://i.imgur.com/ORzDdgh.gif");
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.4;
+    z-index: -1;
+    transition: 0.4s;
+}
+
+/* LiptonGod */
+#chat-messages .id-42112940 .badge-box {
+    width: 30px;
+    height: 30px;
+    transition: 0.5s;
+}
+
+    #chat-messages .id-42112940 .badge-box:hover {
+        width: 65px;
+        height: 65px;
+        transition: 0.5s;
+    }
+
+    /*User Badge*/
+    #user-rollover.id-42112940 .badge-box i.bdg,
+    #chat-messages .id-42112940 .badge-box i.bdg {
+        background-image: url("https://i.imgur.com/ts2O7GJ.gif");
+        background-size: cover;
+        border-radius: 7px;
+        width: 100%;
+        height: 100%;
+        background-position: initial;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+/*User Background*/
+.cm.id-42112940::before {
+    background-image: url("https://i.imgur.com/mvSEkYD.gif");
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+    z-index: -1;
+    transition: 0.4s;
+}
