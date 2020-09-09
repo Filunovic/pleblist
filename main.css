@@ -698,6 +698,53 @@ div.message > div.msg > div.from > span.un {
     animation: twitchmod 1s infinite !important;
 }
 
+/* Baronhumus */
+#user-rollover.id-45902975 .username,
+#chat [data-cid^="45902975"] span.un.clickable {
+    animation: vip 1s infinite !important;
+}
+
+#user-rollover.id-45902975 .info .role span:before {
+    content: '';
+}
+
+.id-45902975 .msg .from i.icon-chat-bouncer,
+#waitlist .list .user[data-uid="45902975"] .meta.is-staff .name .icon-chat-bouncer,
+#user-rollover.id-45902975 .info .role i.icon-chat-bouncer,
+#user-lists .list.room .user.id-45902975 .icon-chat-bouncer {
+    background: url("https://cdn.discordapp.com/attachments/728370089258123265/728600505349177455/mod.jpg") no-repeat !important;
+}
+
+#user-rollover.id-45902975 .meta .thumb {
+    border-color: #9402b5 !important;
+}
+
+.id-45902975 .msg .from.bouncer .un,
+.id-45902975 .from .un,
+#chat [data-cid^="45902975"] span.un.clickable,
+#waitlist .list .user[data-uid="45902975"] .meta.is-staff .name .icon-chat-bouncer + span,
+#user-rollover.id-45902975 .info .role span,
+#user-rollover.id-45902975 .meta .username,
+#user-lists .list.room .user.id-45902975 .name {
+    animation: vip 1s infinite !important;
+}
+
+#chat .cm.message.id-45902975,
+#chat .cm.emote.id-45902975 {
+    border-left: #9402b5 3px dotted !important;
+    border-right: #9402b5 3px dotted !important;
+}
+
+    #chat .cm.message.id-45902975:hover,
+    #chat .cm.emote.id-45902975:hover {
+        border-left-style: solid !important;
+        border-right-style: solid !important;
+        display: inline-block !important;
+    }
+
+.emote.id-45902975 .text {
+    animation: vip 1s infinite !important;
+}
 
 /* #90b0cf
 #user-rollover.id-3941421 .info .role span:after {
@@ -834,14 +881,14 @@ div.message > div.msg > div.from > span.un {
     }
 }
 
-/* Default Mod - Purple */
-@keyframes defaultmod {
+/* VIP - Purple */
+@keyframes vip {
     0% {
-        color: #ac76ff;
+        color: #9402b5;
     }
 
     100% {
-        color: #ac76ff;
+        color: #9402b5;
     }
 }
 
