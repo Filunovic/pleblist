@@ -290,7 +290,7 @@ div.message > div.msg > div.from > span.un {
 
 /* Filunovic */
 #user-rollover.id-15296765 .username,
-#chat [data-cid^="15296765-"] span.un.clickable {
+#chat [data-cid^="15296765"] span.un.clickable {
     animation: duha 1s infinite !important;
 }
 
@@ -311,7 +311,7 @@ div.message > div.msg > div.from > span.un {
 
 .id-15296765 .msg .from.manager .un,
 .id-15296765 .from .un,
-#chat [data-cid^="15296765-"] span.un.clickable,
+#chat [data-cid^="15296765"] span.un.clickable,
 #waitlist .list .user[data-uid="15296765"] .meta.is-staff .name .icon-chat-manager + span,
 #user-rollover.id-15296765 .info .role span,
 #user-rollover.id-15296765 .meta .username,
