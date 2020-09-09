@@ -21,10 +21,10 @@
     "manager": "#FC0303",
     "bouncer": "#3ACF58",
     "rdj": "#9738E0",
-    "subscriber": "#F0CF4A",
-    "silversubscriber": "#F0CF4A",
+    "subscriber": null,
+    "silversubscriber": null,
     "friend": "#B35D88",
-    "user": "#B6BFB6"
+    "user": null
   },
   "images": {
     "background": "https://i.imgur.com/1letADQ.png",
