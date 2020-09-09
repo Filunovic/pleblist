@@ -1,11 +1,11 @@
 {
-  "room": "Nas Pleblist 2",
+  "room": "Nas Pleblist",
   "author": "Filunovic",
   "icon": "https://cdn.discordapp.com/attachments/728370089258123265/728398564425728060/AgrE.jpg",
-  "css": "https://raw.githubusercontent.com/Filunovic/pleblist/master/main.css",
+  "css": "https://raw.githack.com/Filunovic/pleblist/master/main.css",
   "rules": {
     "allowAutorespond": true,
-    "allowAutowoot": false,
+    "allowAutowoot": true,
     "allowAutojoin": true,
     "allowAutograb": true,
     "allowSmartVote": true,
@@ -16,15 +16,15 @@
   "ccc": {
     "admin": "#FF3636",
     "ambassador": "88E374",
-    "host": "#0B61B3",
-    "cohost": "#69B6FF",
-    "manager": "#E60E0E",
-    "bouncer": "#3ACF58",
-    "rdj": "#9738E0",
-    "subscriber": "#F0CF4A",
-    "silversubscriber": "#F0CF4A",
-    "friend": "#B35D88",
-    "user": "#B6BFB6"
+    "host": null,
+    "cohost": null,
+    "manager": null,
+    "bouncer": null,
+    "rdj": null,
+    "subscriber": null,
+    "silversubscriber": null,
+    "friend": null,
+    "user": null
   },
   "images": {
     "background": "https://i.imgur.com/1letADQ.png",
@@ -176,6 +176,7 @@
     "agrclown": "https://i.imgur.com/dIqPu17.png",
     "vavrajam": " https://i.imgur.com/icO6ApN.gif",
     "hyperkong": "https://i.imgur.com/JJ81O18.gif"
+
 
 
   }
