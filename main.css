@@ -317,7 +317,7 @@ div.message > div.msg > div.from > span.un {
 /* Filunovic */
 #user-rollover.id-15296765 .username,
 #chat [data-cid^="15296765-"] span.un.clickable {
-    animation: duha 1s infinite !important;
+    animation: filucol 1s infinite !important;
 }
 
 #user-rollover.id-15296765 .info .role span:after {
@@ -342,7 +342,7 @@ div.message > div.msg > div.from > span.un {
 #user-rollover.id-15296765 .info .role span,
 #user-rollover.id-15296765 .meta .username,
 #user-lists .list.room .user.id-15296765 .name {
-    animation: duha 1s infinite !important;
+    animation: filucol 2s infinite !important;
 }
 
 #chat .cm.message.id-15296765,
@@ -359,7 +359,7 @@ div.message > div.msg > div.from > span.un {
     }
 
 .emote.id-15296765 .text {
-    animation: duha 1s infinite !important;
+    animation: filucol 1s infinite !important;
 }
 
 /* Naresir */
@@ -997,6 +997,7 @@ div.message > div.msg > div.from > span.un {
     }
 }
 
+
 /* Bouncer #3e3e3e */
 @keyframes bouncerdark {
     0% {
@@ -1023,13 +1024,49 @@ div.message > div.msg > div.from > span.un {
 /* Name Colors - Custom */
 
 /* Filunovic */
-@keyframes filunovic {
+@keyframes filucol {
     0% {
-        color: #17d7e8;
+        color: #00b4cc;
+    }
+
+    10% {
+        color: #0099cc;
+    }
+
+    20% {
+        color: #0085cc;
+    }
+
+    30% {
+        color: #006dcc;
+    }
+
+    40% {
+        color: #0044cc;
+    }
+
+    50% {
+        color: #00359e;
+    }
+
+    60% {
+        color: #0044cc;
+    }
+
+    70% {
+        color: #006dcc;
+    }
+
+    80% {
+        color: #0085cc;
+    }
+
+    90% {
+        color: #0099cc;
     }
 
     100% {
-        color: #17d7e8;
+        color: #00b4cc;
     }
 }
 
