@@ -350,7 +350,7 @@ div.message > div.msg > div.from > span.un {
 #waitlist .list .user[data-uid="45606106"] .meta.is-staff .name .icon-chat-manager,
 #user-rollover.id-45606106 .info .role i.icon-chat-manager,
 #user-lists .list.room .user.id-45606106 .icon-chat-manager {
-    background: url("") no-repeat !important;
+    background: url("https://cdn.discordapp.com/attachments/728370089258123265/728601650536906803/mod2.jpg") no-repeat !important;
 }
 
 #user-rollover.id-45606106 .meta .thumb {
@@ -384,6 +384,293 @@ div.message > div.msg > div.from > span.un {
     animation: manager 1s infinite !important;
 }
 
+/* Tichus */
+#user-rollover.id-48786549 .username,
+#chat [data-cid^="48786549-"] span.un.clickable {
+    animation: manager 1s infinite !important;
+}
+
+#user-rollover.id-48786549 .info .role span:before {
+    content: '';
+}
+
+.id-48786549 .msg .from i.icon-chat-manager,
+#waitlist .list .user[data-uid="48786549"] .meta.is-staff .name .icon-chat-manager,
+#user-rollover.id-48786549 .info .role i.icon-chat-manager,
+#user-lists .list.room .user.id-48786549 .icon-chat-manager {
+    background: url("https://cdn.discordapp.com/attachments/728370089258123265/728601650536906803/mod2.jpg") no-repeat !important;
+}
+
+#user-rollover.id-48786549 .meta .thumb {
+    border-color: #14b866 !important;
+}
+
+.id-48786549 .msg .from.manager .un,
+.id-48786549 .from .un,
+#chat [data-cid^="48786549"] span.un.clickable,
+#waitlist .list .user[data-uid="48786549"] .meta.is-staff .name .icon-chat-manager + span,
+#user-rollover.id-48786549 .info .role span,
+#user-rollover.id-48786549 .meta .username,
+#user-lists .list.room .user.id-48786549 .name {
+    animation: manager 1s infinite !important;
+}
+
+#chat .cm.message.id-48786549,
+#chat .cm.emote.id-48786549 {
+    border-left: #14b866 3px dotted !important;
+    border-right: #14b866 3px dotted !important;
+}
+
+    #chat .cm.message.id-48786549:hover,
+    #chat .cm.emote.id-48786549:hover {
+        border-left-style: solid !important;
+        border-right-style: solid !important;
+        display: inline-block !important;
+    }
+
+.emote.id-48786549 .text {
+    animation: manager 1s infinite !important;
+}
+
+/* Peach */
+#user-rollover.id-48715698 .username,
+#chat [data-cid^="48715698-"] span.un.clickable {
+    animation: manager 1s infinite !important;
+}
+
+#user-rollover.id-48715698 .info .role span:before {
+    content: '';
+}
+
+.id-48715698 .msg .from i.icon-chat-manager,
+#waitlist .list .user[data-uid="48715698"] .meta.is-staff .name .icon-chat-manager,
+#user-rollover.id-48715698 .info .role i.icon-chat-manager,
+#user-lists .list.room .user.id-48715698 .icon-chat-manager {
+    background: url("https://cdn.discordapp.com/attachments/728370089258123265/728601650536906803/mod2.jpg") no-repeat !important;
+}
+
+#user-rollover.id-48715698 .meta .thumb {
+    border-color: #14b866 !important;
+}
+
+.id-48715698 .msg .from.manager .un,
+.id-48715698 .from .un,
+#chat [data-cid^="48715698"] span.un.clickable,
+#waitlist .list .user[data-uid="48715698"] .meta.is-staff .name .icon-chat-manager + span,
+#user-rollover.id-48715698 .info .role span,
+#user-rollover.id-48715698 .meta .username,
+#user-lists .list.room .user.id-48715698 .name {
+    animation: manager 1s infinite !important;
+}
+
+#chat .cm.message.id-48715698,
+#chat .cm.emote.id-48715698 {
+    border-left: #14b866 3px dotted !important;
+    border-right: #14b866 3px dotted !important;
+}
+
+    #chat .cm.message.id-48715698:hover,
+    #chat .cm.emote.id-48715698:hover {
+        border-left-style: solid !important;
+        border-right-style: solid !important;
+        display: inline-block !important;
+    }
+
+.emote.id-48715698 .text {
+    animation: manager 1s infinite !important;
+}
+
+/* M4-eek */
+#user-rollover.id-48850638 .username,
+#chat [data-cid^="48850638"] span.un.clickable {
+    animation: twitchmod 1s infinite !important;
+}
+
+#user-rollover.id-48850638 .info .role span:before {
+    content: '';
+}
+
+.id-48850638 .msg .from i.icon-chat-bouncer,
+#waitlist .list .user[data-uid="48850638"] .meta.is-staff .name .icon-chat-bouncer,
+#user-rollover.id-48850638 .info .role i.icon-chat-bouncer,
+#user-lists .list.room .user.id-48850638 .icon-chat-bouncer {
+    background: url("https://cdn.discordapp.com/attachments/728370089258123265/728600505349177455/mod.jpg") no-repeat !important;
+}
+
+#user-rollover.id-48850638 .meta .thumb {
+    border-color: #038a46 !important;
+}
+
+.id-48850638 .msg .from.bouncer .un,
+.id-48850638 .from .un,
+#chat [data-cid^="48850638"] span.un.clickable,
+#waitlist .list .user[data-uid="48850638"] .meta.is-staff .name .icon-chat-bouncer + span,
+#user-rollover.id-48850638 .info .role span,
+#user-rollover.id-48850638 .meta .username,
+#user-lists .list.room .user.id-48850638 .name {
+    animation: twitchmod 1s infinite !important;
+}
+
+#chat .cm.message.id-48850638,
+#chat .cm.emote.id-48850638 {
+    border-left: #038a46 3px dotted !important;
+    border-right: #038a46 3px dotted !important;
+}
+
+    #chat .cm.message.id-48850638:hover,
+    #chat .cm.emote.id-48850638:hover {
+        border-left-style: solid !important;
+        border-right-style: solid !important;
+        display: inline-block !important;
+    }
+
+.emote.id-48850638 .text {
+    animation: twitchmod 1s infinite !important;
+}
+
+/* Macafous */
+#user-rollover.id-43302659 .username,
+#chat [data-cid^="43302659"] span.un.clickable {
+    animation: twitchmod 1s infinite !important;
+}
+
+#user-rollover.id-43302659 .info .role span:before {
+    content: '';
+}
+
+.id-43302659 .msg .from i.icon-chat-bouncer,
+#waitlist .list .user[data-uid="43302659"] .meta.is-staff .name .icon-chat-bouncer,
+#user-rollover.id-43302659 .info .role i.icon-chat-bouncer,
+#user-lists .list.room .user.id-43302659 .icon-chat-bouncer {
+    background: url("https://cdn.discordapp.com/attachments/728370089258123265/728600505349177455/mod.jpg") no-repeat !important;
+}
+
+#user-rollover.id-43302659 .meta .thumb {
+    border-color: #038a46 !important;
+}
+
+.id-43302659 .msg .from.bouncer .un,
+.id-43302659 .from .un,
+#chat [data-cid^="43302659"] span.un.clickable,
+#waitlist .list .user[data-uid="43302659"] .meta.is-staff .name .icon-chat-bouncer + span,
+#user-rollover.id-43302659 .info .role span,
+#user-rollover.id-43302659 .meta .username,
+#user-lists .list.room .user.id-43302659 .name {
+    animation: twitchmod 1s infinite !important;
+}
+
+#chat .cm.message.id-43302659,
+#chat .cm.emote.id-43302659 {
+    border-left: #038a46 3px dotted !important;
+    border-right: #038a46 3px dotted !important;
+}
+
+    #chat .cm.message.id-43302659:hover,
+    #chat .cm.emote.id-443302659:hover {
+        border-left-style: solid !important;
+        border-right-style: solid !important;
+        display: inline-block !important;
+    }
+
+.emote.id-43302659 .text {
+    animation: twitchmod 1s infinite !important;
+}
+
+/* Sidlo */
+#user-rollover.id-46157562 .username,
+#chat [data-cid^="46157562"] span.un.clickable {
+    animation: twitchmod 1s infinite !important;
+}
+
+#user-rollover.id-46157562 .info .role span:before {
+    content: '';
+}
+
+.id-46157562 .msg .from i.icon-chat-bouncer,
+#waitlist .list .user[data-uid="46157562"] .meta.is-staff .name .icon-chat-bouncer,
+#user-rollover.id-46157562 .info .role i.icon-chat-bouncer,
+#user-lists .list.room .user.id-46157562 .icon-chat-bouncer {
+    background: url("https://cdn.discordapp.com/attachments/728370089258123265/728600505349177455/mod.jpg") no-repeat !important;
+}
+
+#user-rollover.id-46157562 .meta .thumb {
+    border-color: #038a46 !important;
+}
+
+.id-46157562 .msg .from.bouncer .un,
+.id-46157562 .from .un,
+#chat [data-cid^="46157562"] span.un.clickable,
+#waitlist .list .user[data-uid="46157562"] .meta.is-staff .name .icon-chat-bouncer + span,
+#user-rollover.id-46157562 .info .role span,
+#user-rollover.id-46157562 .meta .username,
+#user-lists .list.room .user.id-46157562 .name {
+    animation: twitchmod 1s infinite !important;
+}
+
+#chat .cm.message.id-46157562,
+#chat .cm.emote.id-46157562 {
+    border-left: #038a46 3px dotted !important;
+    border-right: #038a46 3px dotted !important;
+}
+
+    #chat .cm.message.id-46157562:hover,
+    #chat .cm.emote.id-46157562:hover {
+        border-left-style: solid !important;
+        border-right-style: solid !important;
+        display: inline-block !important;
+    }
+
+.emote.id-46157562 .text {
+    animation: twitchmod 1s infinite !important;
+}
+
+/* aMorty */
+#user-rollover.id-51546705 .username,
+#chat [data-cid^="51546705"] span.un.clickable {
+    animation: twitchmod 1s infinite !important;
+}
+
+#user-rollover.id-51546705 .info .role span:before {
+    content: '';
+}
+
+.id-51546705 .msg .from i.icon-chat-bouncer,
+#waitlist .list .user[data-uid="51546705"] .meta.is-staff .name .icon-chat-bouncer,
+#user-rollover.id-51546705 .info .role i.icon-chat-bouncer,
+#user-lists .list.room .user.id-51546705 .icon-chat-bouncer {
+    background: url("https://cdn.discordapp.com/attachments/728370089258123265/728600505349177455/mod.jpg") no-repeat !important;
+}
+
+#user-rollover.id-51546705 .meta .thumb {
+    border-color: #038a46 !important;
+}
+
+.id-51546705 .msg .from.bouncer .un,
+.id-51546705 .from .un,
+#chat [data-cid^="51546705"] span.un.clickable,
+#waitlist .list .user[data-uid="51546705"] .meta.is-staff .name .icon-chat-bouncer + span,
+#user-rollover.id-51546705 .info .role span,
+#user-rollover.id-51546705 .meta .username,
+#user-lists .list.room .user.id-51546705 .name {
+    animation: twitchmod 1s infinite !important;
+}
+
+#chat .cm.message.id-51546705,
+#chat .cm.emote.id-51546705 {
+    border-left: #038a46 3px dotted !important;
+    border-right: #038a46 3px dotted !important;
+}
+
+    #chat .cm.message.id-51546705:hover,
+    #chat .cm.emote.id-51546705:hover {
+        border-left-style: solid !important;
+        border-right-style: solid !important;
+        display: inline-block !important;
+    }
+
+.emote.id-51546705 .text {
+    animation: twitchmod 1s infinite !important;
+}
 
 
 /* #90b0cf
