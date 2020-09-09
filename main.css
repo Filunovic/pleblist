@@ -290,7 +290,7 @@ div.message > div.msg > div.from > span.un {
 
 /* Filunovic */
 #user-rollover.id-15296765 .username,
-#chat [data-cid^="15296765"] span.un.clickable {
+#chat [data-cid^="15296765-"] span.un.clickable {
     animation: duha 1s infinite !important;
 }
 
@@ -311,7 +311,7 @@ div.message > div.msg > div.from > span.un {
 
 .id-15296765 .msg .from.manager .un,
 .id-15296765 .from .un,
-#chat [data-cid^="15296765"] span.un.clickable,
+#chat [data-cid^="15296765-"] span.un.clickable,
 #waitlist .list .user[data-uid="15296765"] .meta.is-staff .name .icon-chat-manager + span,
 #user-rollover.id-15296765 .info .role span,
 #user-rollover.id-15296765 .meta .username,
@@ -334,6 +334,54 @@ div.message > div.msg > div.from > span.un {
 
 .emote.id-15296765 .text {
     animation: duha 1s infinite !important;
+}
+
+/* Naresir */
+#user-rollover.id-45606106 .username,
+#chat [data-cid^="45606106-"] span.un.clickable {
+    animation: manager 1s infinite !important;
+}
+
+#user-rollover.id-45606106 .info .role span:before {
+    content: '';
+}
+
+.id-45606106 .msg .from i.icon-chat-manager,
+#waitlist .list .user[data-uid="45606106"] .meta.is-staff .name .icon-chat-manager,
+#user-rollover.id-45606106 .info .role i.icon-chat-manager,
+#user-lists .list.room .user.id-45606106 .icon-chat-manager {
+    background: url("") no-repeat !important;
+}
+
+#user-rollover.id-45606106 .meta .thumb {
+    border-color: #14b866 !important;
+}
+
+.id-45606106 .msg .from.manager .un,
+.id-45606106 .from .un,
+#chat [data-cid^="45606106"] span.un.clickable,
+#waitlist .list .user[data-uid="45606106"] .meta.is-staff .name .icon-chat-manager + span,
+#user-rollover.id-45606106 .info .role span,
+#user-rollover.id-45606106 .meta .username,
+#user-lists .list.room .user.id-45606106 .name {
+    animation: manager 1s infinite !important;
+}
+
+#chat .cm.message.id-45606106,
+#chat .cm.emote.id-45606106 {
+    border-left: #14b866 3px dotted !important;
+    border-right: #14b866 3px dotted !important;
+}
+
+    #chat .cm.message.id-45606106:hover,
+    #chat .cm.emote.id-45606106:hover {
+        border-left-style: solid !important;
+        border-right-style: solid !important;
+        display: inline-block !important;
+    }
+
+.emote.id-45606106 .text {
+    animation: manager 1s infinite !important;
 }
 
 
@@ -440,6 +488,17 @@ div.message > div.msg > div.from > span.un {
 
 /* Name Colors - Default */
 
+/* Broadcaster - RED */
+@keyframes broadcaster {
+    0% {
+        color: #FF0000;
+    }
+
+    100% {
+        color: #FF0000;
+    }
+}
+
 /* Twitch Mod - Green */
 @keyframes twitchmod {
     0% {
@@ -448,6 +507,17 @@ div.message > div.msg > div.from > span.un {
 
     100% {
         color: #14b866;
+    }
+}
+
+/* Manager - Default */
+@keyframes manager {
+    0% {
+        color: #ff0000;
+    }
+
+    100% {
+        color: #ff0000;
     }
 }
 
@@ -553,5 +623,70 @@ div.message > div.msg > div.from > span.un {
 
     100% {
         color: #17d7e8;
+    }
+}
+
+/* Poggy Woggy */
+@-webkit-keyframes vibrate-1 {
+    0% {
+        -webkit-transform: translate(0);
+        transform: translate(0);
+    }
+
+    20% {
+        -webkit-transform: translate(-2px, 2px);
+        transform: translate(-2px, 2px);
+    }
+
+    40% {
+        -webkit-transform: translate(-2px, -2px);
+        transform: translate(-2px, -2px);
+    }
+
+    60% {
+        -webkit-transform: translate(2px, 2px);
+        transform: translate(2px, 2px);
+    }
+
+    80% {
+        -webkit-transform: translate(2px, -2px);
+        transform: translate(2px, -2px);
+    }
+
+    100% {
+        -webkit-transform: translate(0);
+        transform: translate(0);
+    }
+}
+
+@keyframes vibrate-1 {
+    0% {
+        -webkit-transform: translate(0);
+        transform: translate(0);
+    }
+
+    20% {
+        -webkit-transform: translate(-2px, 2px);
+        transform: translate(-2px, 2px);
+    }
+
+    40% {
+        -webkit-transform: translate(-2px, -2px);
+        transform: translate(-2px, -2px);
+    }
+
+    60% {
+        -webkit-transform: translate(2px, 2px);
+        transform: translate(2px, 2px);
+    }
+
+    80% {
+        -webkit-transform: translate(2px, -2px);
+        transform: translate(2px, -2px);
+    }
+
+    100% {
+        -webkit-transform: translate(0);
+        transform: translate(0);
     }
 }
