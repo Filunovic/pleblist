@@ -41,7 +41,7 @@ div.message > div.msg > div.from > span.un {
 }
 
 .community .room-controls--desktop__item .btn-like.clicked {
-    animation: rainbow 1s infinite;
+    animation: blzel 1s infinite;
 }
 
 /* Chat */
@@ -874,6 +874,53 @@ div.message > div.msg > div.from > span.un {
 
     100% {
         color: #ff0080;
+    }
+}
+
+/* Blik zel */
+@keyframes blzel {
+    0% {
+        color: #00cc29;
+    }
+
+    10% {
+        color: #00ab22;
+    }
+
+    20% {
+        color: #00941e;
+    }
+
+    30% {
+        color: #007a19;
+    }
+
+    40% {
+        color: #006b15;
+    }
+
+    50% {
+        color: #005c12;
+    }
+
+    60% {
+        color: #006b15;
+    }
+
+    70% {
+        color: #007a19;
+    }
+
+    80% {
+        color: #00941e;
+    }
+
+    90% {
+        color: #00ab22;
+    }
+
+    100% {
+        color: #00cc29;
     }
 }
 
