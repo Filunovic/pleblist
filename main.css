@@ -44,12 +44,16 @@ div.message > div.msg > div.from > span.un {
     animation: blzel 1s infinite;
 }
 
+.community .room-controls--desktop__item .btn-meh.clicked {
+    animation: blcer 1s infinite;
+}
+
 /* Custom Votes */
 /*
 .community .room-controls--desktop__item .btn-playlist::before {
     display: inline-block;
     width: 60px;
-    height: 200px;
+    height: 60px;
     content: "";
     background: url("https://i.imgur.com/9hAR9Pf.png") no-repeat 0 0;
     background-size: 50%;
@@ -59,7 +63,7 @@ div.message > div.msg > div.from > span.un {
 .community .room-controls--desktop__item .btn-playlist.clicked {
     display: inline-block;
     width: 60px;
-    height: 200px;
+    height: 60px;
     content: "";
     background: url("https://i.imgur.com/RDDSK3z.gif") no-repeat 0 0;
     background-size: 50%;
@@ -943,6 +947,53 @@ div.message > div.msg > div.from > span.un {
 
     100% {
         color: #00cc29;
+    }
+}
+
+/* Blik cer */
+@keyframes blcer {
+    0% {
+        color: #d90000;
+    }
+
+    10% {
+        color: #c20000;
+    }
+
+    20% {
+        color: #9c0000;
+    }
+
+    30% {
+        color: #800000;
+    }
+
+    40% {
+        color: #7d0000;
+    }
+
+    50% {
+        color: #4a0000;
+    }
+
+    60% {
+        color: #7d0000;
+    }
+
+    70% {
+        color: #800000;
+    }
+
+    80% {
+        color: #9c0000;
+    }
+
+    90% {
+        color: #c20000;
+    }
+
+    100% {
+        color: #d90000;
     }
 }
 
