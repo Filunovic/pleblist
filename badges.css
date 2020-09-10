@@ -9,7 +9,23 @@
 #chat-messages .badge-box {
     background: none !important;
 }
+/* Join and Leave messages */
+.rsshit.sml.rs-log-user-sitemod-join .badge-box,
+.rsshit.sml.rs-log-user-sitemod-leave .badge-box {
+    margin: 6px 0px 0px 15px !important;
+}
 
+    .rsshit.sml.rs-log-user-sitemod-join .badge-box i,
+    .rsshit.sml.rs-log-user-sitemod-leave .badge-box i {
+        background: url(https://cdn.radiant.dj/rcs/icons/plugdj/sitemod.png);
+    }
+
+/* Custom Plug Icons */
+.icon-chat-sitemod {
+    width: 13px;
+    height: 15px;
+    background: url(https://i.imgur.com/LngjoKU.png);
+}
 /* Filunovic */
 #chat-messages .id-15296765 .badge-box {
     width: 30px;
