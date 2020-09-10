@@ -49,18 +49,40 @@ div.message > div.msg > div.from > span.un {
 }
 
 /* Custom Votes */
-/*
-.community .room-controls--desktop__item .btn-playlist::before {
-    display: inline-block;
-    width: 60px;
-    height: 60px;
-    content: "";
-    background: url("https://i.imgur.com/9hAR9Pf.png") no-repeat 0 0;
-    background-size: 50%;
-    background-position: top !important;
+
+.community .room-controls--desktop__item .btn-playlist {
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    background-color: transparent;
+    color: transparent;
+    border: 0;
 }
 
-.community .room-controls--desktop__item .btn-playlist.clicked {
+    .community .room-controls--desktop__item .btn-playlist.clicked {
+        display: block;
+        margin: 0 auto;
+        padding: 0;
+        text-align: center;
+        background-color: transparent;
+        color: #aa74ee00 !important;
+        border: 0;
+    }
+
+
+    .community .room-controls--desktop__item .btn-playlist::before {
+        display: inline-block;
+        width: 60px;
+        height: 60px;
+        content: "";
+        background: url("https://i.imgur.com/9hAR9Pf.png") no-repeat 0 0;
+        background-size: 50%;
+        background-position: top !important;
+    }
+
+/*
+.community .room-controls--desktop__item .btn-playlist:checked {
     display: inline-block;
     width: 60px;
     height: 60px;
