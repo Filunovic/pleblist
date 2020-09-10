@@ -1,0 +1,73 @@
+/* Editace vzhledu elementù */
+
+#user-lists .list.staff .group.host {
+    position: relative;
+    margin-top: 16px;
+    width: 100%;
+    height: 36px;
+    border-top: 3px solid #d8a418;
+    border-right: 3px solid #d8a418;
+    border-bottom: 3px solid #d8a418;
+    background: #9e780cab;
+}
+
+    .icon-chat-host {
+        background-position: 0px 0px;
+        width: 20px;
+        height: 15px;
+        background: url(https://i.imgur.com/IkSiN44.png);
+    }
+
+#user-lists .list.staff .group.manager {
+    position: relative;
+    margin-top: 16px;
+    width: 100%;
+    height: 36px;
+    border-top: 3px solid #004efd;
+    border-right: 3px solid #004efd;
+    border-bottom: 3px solid #004efd;
+    background: #07bee7;
+}
+
+    .icon-chat-manager {
+        background-position: 0px 0px;
+        width: 20px;
+        height: 20px;
+        background: url(https://i.imgur.com/A16RZuS.png);
+    }
+
+#user-lists .list.staff .group.bouncer {
+    position: relative;
+    margin-top: 16px;
+    width: 100%;
+    height: 36px;
+    border-top: 3px solid #3aff41;
+    border-right: 3px solid #3aff41;
+    border-bottom: 3px solid #3aff41;
+    background: #319734;
+}
+
+    .icon-chat-bouncer {
+        background-position: 0px 0px;
+        width: 20px;
+        height: 20px;
+        background: url(https://i.imgur.com/ekkmiJl.png);
+    }
+
+#user-lists .list.staff .group.dj {
+    position: relative;
+    margin-top: 16px;
+    width: 100%;
+    height: 36px;
+    border-top: 3px solid #bd008f;
+    border-right: 3px solid #bd008f;
+    border-bottom: 3px solid #bd008f;
+    background: #6d1557;
+}
+
+    .icon-chat-dj {
+        background-position: 0px 0px;
+        width: 15px;
+        height: 15px;
+        background: url(https://cdn.discordapp.com/attachments/728370089258123265/728600509564583977/VIP.png);
+    }
