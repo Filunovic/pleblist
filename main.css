@@ -730,21 +730,21 @@ div.message > div.msg > div.from > span.un {
     content: '';
 }
 
-.id-45902975 .msg .from i.icon-chat-bouncer,
-#waitlist .list .user[data-uid="45902975"] .meta.is-staff .name .icon-chat-bouncer,
-#user-rollover.id-45902975 .info .role i.icon-chat-bouncer,
-#user-lists .list.room .user.id-45902975 .icon-chat-bouncer {
-    background: url("https://cdn.discordapp.com/attachments/728370089258123265/728600505349177455/mod.jpg") no-repeat !important;
+.id-45902975 .msg .from i.icon-chat-dj,
+#waitlist .list .user[data-uid="45902975"] .meta.is-staff .name .icon-chat-dj,
+#user-rollover.id-45902975 .info .role i.icon-chat-dj,
+#user-lists .list.room .user.id-45902975 .icon-chat-dj {
+    background: url("https://cdn.discordapp.com/attachments/728370089258123265/728600509564583977/VIP.png") no-repeat !important;
 }
 
 #user-rollover.id-45902975 .meta .thumb {
     border-color: #9402b5 !important;
 }
 
-.id-45902975 .msg .from.bouncer .un,
+.id-45902975 .msg .from.dj .un,
 .id-45902975 .from .un,
 #chat [data-cid^="45902975"] span.un.clickable,
-#waitlist .list .user[data-uid="45902975"] .meta.is-staff .name .icon-chat-bouncer + span,
+#waitlist .list .user[data-uid="45902975"] .meta.is-staff .name .icon-chat-dj + span,
 #user-rollover.id-45902975 .info .role span,
 #user-rollover.id-45902975 .meta .username,
 #user-lists .list.room .user.id-45902975 .name {
@@ -767,6 +767,57 @@ div.message > div.msg > div.from > span.un {
 .emote.id-45902975 .text {
     animation: vip 1s infinite !important;
 }
+
+/* Freyr */
+#user-rollover.id-5266523 .username,
+#chat [data-cid^="5266523"] span.un.clickable {
+    animation: vip 1s infinite !important;
+}
+
+#user-rollover.id-5266523 .info .role span:before {
+    content: '';
+}
+
+.id-5266523 .msg .from i.icon-chat-dj,
+#waitlist .list .user[data-uid="5266523"] .meta.is-staff .name .icon-chat-dj,
+#user-rollover.id-5266523 .info .role i.icon-chat-dj,
+#user-lists .list.room .user.id-5266523 .icon-chat-dj {
+    background: url("https://cdn.discordapp.com/attachments/728370089258123265/728600509564583977/VIP.png") no-repeat !important;
+}
+
+#user-rollover.id-5266523 .meta .thumb {
+    border-color: #9402b5 !important;
+}
+
+.id-5266523 .msg .from.dj .un,
+.id-5266523 .from .un,
+#chat [data-cid^="5266523"] span.un.clickable,
+#waitlist .list .user[data-uid="5266523"] .meta.is-staff .name .icon-chat-dj + span,
+#user-rollover.id-5266523 .info .role span,
+#user-rollover.id-5266523 .meta .username,
+#user-lists .list.room .user.id-5266523 .name {
+    animation: vip 1s infinite !important;
+}
+
+#chat .cm.message.id-45902975,
+#chat .cm.emote.id-45902975 {
+    border-left: #ef0505 6px double !important;
+    border-right: #ef0505 6px double !important;
+    border-bottom: #ef0505 6px double !important;
+    border-top: #ef0505 6px double !important;
+}
+
+    #chat .cm.message.id-5266523:hover,
+    #chat .cm.emote.id-5266523:hover {
+        border-left-style: solid !important;
+        border-right-style: solid !important;
+        display: inline-block !important;
+    }
+
+.emote.id-5266523 .text {
+    animation: vip 1s infinite !important;
+}
+
 
 /* #90b0cf
 #user-rollover.id-3941421 .info .role span:after {
