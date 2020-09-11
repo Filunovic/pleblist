@@ -799,12 +799,12 @@ div.message > div.msg > div.from > span.un {
     animation: vip 1s infinite !important;
 }
 
-#chat .cm.message.id-45902975,
-#chat .cm.emote.id-45902975 {
-    border-left: #ef0505 6px double !important;
-    border-right: #ef0505 6px double !important;
-    border-bottom: #ef0505 6px double !important;
-    border-top: #ef0505 6px double !important;
+#chat .cm.message.id-5266523,
+#chat .cm.emote.id-5266523 {
+    border-left: #ef0505 3px dotted !important;
+    border-right: #ef0505 3px dotted !important;
+    border-bottom: #ef0505 3px double !important;
+    border-top: #ef0505 3px double !important;
 }
 
     #chat .cm.message.id-5266523:hover,
