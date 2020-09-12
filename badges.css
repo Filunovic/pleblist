@@ -1,4 +1,4 @@
-/* Custom Badges */
+/* Custom Badges + Profile pics*/
 
 /* General */
 #chat .badge-box i,
@@ -17,7 +17,7 @@
 
     .rsshit.sml.rs-log-user-sitemod-join .badge-box i,
     .rsshit.sml.rs-log-user-sitemod-leave .badge-box i {
-        background: url(https://cdn.radiant.dj/rcs/icons/plugdj/sitemod.png);
+        background: url(https://i.imgur.com/LngjoKU.png);
     }
 
 /* Custom Plug Icons */
@@ -26,6 +26,13 @@
     height: 15px;
     background: url(https://i.imgur.com/LngjoKU.png);
 }
+
+.icon-chat-promoter {
+    width: 13px;
+    height: 15px;
+    background: url(https://i.imgur.com/LngjoKU.png);
+}
+
 /* Filunovic */
 #chat-messages .id-15296765 .badge-box {
     width: 30px;
@@ -66,7 +73,24 @@
     z-index: -1;
     transition: 0.4s;
 }
-
+/* Profile Icon */
+.id-15296765 .avi,
+.id-15296765 .thump.large .avi, .id-15296765 .thumb.large .avi.avi-vintage-e04 {
+    top: -36px !important;
+    left: -35px !important;
+    position: absolute !important;
+    width: 150px !important;
+    height: 150px !important;
+    background: url(https://i.imgur.com/fWOr9IF.png);
+}
+/*Small Icon Fix*/
+.id-15296765 .avatar-wrapper.thumb.small .avi,
+.id-15296765 .right-side-wrapper .thumb.small .avi,
+.id-15296765 .thumb.small .avi {
+    background: url(https://i.imgur.com/Y0bSEN5.png) !important;
+    left: -25px !important;
+    top: -26px !important;
+}
 /* Baronhumus */
 #chat-messages .id-45902975 .badge-box {
     width: 30px;
