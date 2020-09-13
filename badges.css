@@ -75,7 +75,7 @@
 }
 /* Profile Icon */
 .id-15296765 .avi,
-.id-15296765 .thump.large .avi, .id-15296765 .thumb.large .avi.avi-vintage-e04 {
+.id-15296765 .thump.large .avi, .id-15296765 .thumb.large .avi.avi {
     top: -36px !important;
     left: -35px !important;
     position: absolute !important;
@@ -118,27 +118,27 @@
         left: 0px;
     }
     /*Feyr*/
+/*Feyr*/
 /* Profile Icon */
-/*
+
 .id-5266523 .avi,
-.id-5266523 .thump.large .avi, .id-5266523 .thumb.large .avi.avi-vintage-e04 {
-    top: -36px !important;
-    left: -35px !important;
-    position: absolute !important;
+.id-5266523 .thump.large .avi, .id-5266523 .thumb.large .avi.avi {
+    top: -37px !important;
+    left: -37px !important;
     width: 150px !important;
     height: 150px !important;
-    background: url(https://i.imgur.com/bp17Rj4.png);
+    background: url(https://i.imgur.com/ZOQYGNd.png);
 }
 /*Small Icon Fix*/
-/*
+
 .id-5266523 .avatar-wrapper.thumb.small .avi,
 .id-5266523 .right-side-wrapper .thumb.small .avi,
 .id-5266523 .thumb.small .avi {
-    background: url(https://i.imgur.com/Y0bSEN5.png) !important;
-    left: -25px !important;
+    background: url(https://i.imgur.com/4nJsXzO.png) !important;
+    left: -25px;
     top: -26px !important;
 }
-*/
+
 /* M4-eek */
 #chat-messages .id-48850638 .badge-box {
     width: 30px;
