@@ -782,7 +782,7 @@ div.message > div.msg > div.from > span.un {
 #waitlist .list .user[data-uid="5266523"] .meta.is-staff .name .icon-chat-dj,
 #user-rollover.id-5266523 .info .role i.icon-chat-dj,
 #user-lists .list.room .user.id-5266523 .icon-chat-dj {
-    background: url("https://cdn.discordapp.com/attachments/728370089258123265/728600509564583977/VIP.png") no-repeat !important;
+    background: url("https://cdn.discordapp.com/attachments/728370089258123265/728600509564583977/VIP.png") no-repeat;
 }
 
 #user-rollover.id-5266523 .meta .thumb {
