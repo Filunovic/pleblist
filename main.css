@@ -438,8 +438,8 @@ div.message > div.msg > div.from > span.un {
     animation: manager 1s infinite !important;
 }
 
-#user-rollover.id-48786549 .info .role span:before {
-    content: '';
+#user-rollover.id-48786549 .info .role span:after {
+    content: ' | Event Lead';
 }
 
 .id-48786549 .msg .from i.icon-chat-manager,
@@ -582,8 +582,8 @@ div.message > div.msg > div.from > span.un {
     animation: twitchmod 1s infinite !important;
 }
 
-#user-rollover.id-43302659 .info .role span:before {
-    content: '';
+#user-rollover.id-43302659 .info .role  span:after {
+    content: ' | Event Mod';
 }
 
 .id-43302659 .msg .from i.icon-chat-bouncer,
