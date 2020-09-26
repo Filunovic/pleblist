@@ -129,5 +129,14 @@
     background: linear-gradient(to bottom,#32b722b5 0,#1bff0040 100%);
 }
 
+.dialog.destructive .button.cancel:hover {
+    color: #f3f3f3;
+    background: linear-gradient(to bottom,#ff0000cf 0,#a21515a6 100%);
+}
+
+.dialog.destructive .button.submit:hover {
+    background: linear-gradient(to bottom,#16cc00 0,#1bff006e 100%);
+}
+
 
 /* Role dialog */
