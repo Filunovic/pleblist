@@ -1,4 +1,4 @@
-/* Editace vzhledu elementù */
+/* Editace vzhledu elementu */
 
 #user-lists .list.staff .group.host {
     position: relative;
@@ -71,3 +71,26 @@
         height: 15px;
         background: url(https://cdn.discordapp.com/attachments/728370089258123265/728600509564583977/VIP.png);
     }
+/* INFO PAGE */
+  /* Pozadi */
+#preview-about .top-about {
+    height: 350px;
+    width: 100%;
+    background: url(https://i.imgur.com/03GRy6T.png) no-repeat 0 0;
+    background-size: cover;
+    background-position: center top;
+    position: relative;
+    z-index: -1;
+}
+
+/* Ikona */
+#preview-about .top-profile .top-profile__image {
+    width: 200px;
+    min-width: 200px;
+    height: 200px;
+    border: 3px solid #000;
+    background: url(https://i.imgur.com/fyk6GjE.png) no-repeat 0 0;
+    background-position: center;
+    background-size: cover;
+    margin: 0 auto 20px 0 0 !important;
+}
