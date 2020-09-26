@@ -245,3 +245,57 @@
         top: 0px;
         left: 0px;
     }
+
+/* Bepix */
+#chat-messages .id-39496488 .badge-box {
+    width: 30px;
+    height: 30px;
+    transition: 0.5s;
+}
+
+    #chat-messages .id-39496488 .badge-box:hover {
+        width: 65px;
+        height: 65px;
+        transition: 0.5s;
+    }
+
+    /*User Badge*/
+    #user-rollover.id-39496488 .badge-box i.bdg,
+    #chat-messages .id-39496488 .badge-box i.bdg {
+        background-image: url("https://i.imgur.com/fwaEUqt.jpg");
+        background-size: cover;
+        border-radius: 7px;
+        width: 100%;
+        height: 100%;
+        background-position: initial;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+
+/* AZZI */
+#chat-messages .id-49182513 .badge-box {
+    width: 30px;
+    height: 30px;
+    transition: 0.5s;
+}
+
+    #chat-messages .id-49182513 .badge-box:hover {
+        width: 65px;
+        height: 65px;
+        transition: 0.5s;
+    }
+
+    /*User Badge*/
+    #user-rollover.id-49182513 .badge-box i.bdg,
+    #chat-messages .id-49182513 .badge-box i.bdg {
+        background-image: url("https://i.imgur.com/VR84hZL.png");
+        background-size: cover;
+        border-radius: 7px;
+        width: 100%;
+        height: 100%;
+        background-position: initial;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
