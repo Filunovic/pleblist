@@ -94,3 +94,40 @@
     background-size: cover;
     margin: 0 auto 20px 0 0 !important;
 }
+
+/* Dialog */
+#dialog-alert, #dialog-confirm {
+    width: 510px;
+    height: 256px;
+}
+
+.dialog {
+    position: relative;
+    display: inline-block;
+    margin: 0 auto;
+    width: 510px;
+    background: #5e167085;
+    -webkit-box-shadow: 0 0 5px #000;
+    -moz-box-shadow: 0 0 5px #000;
+    box-shadow: 0 0 5px #000;
+    vertical-align: middle;
+    white-space: normal;
+}
+
+.dialog-body {
+    position: relative;
+    width: 100%;
+    background: #0000008c;
+}
+
+.dialog.destructive .button.cancel {
+    color: #f3f3f3;
+    background: linear-gradient(to bottom,#ff00008c 0,#54222294 100%);
+}
+
+.dialog.destructive .button.submit {
+    background: linear-gradient(to bottom,#32b722b5 0,#1bff0040 100%);
+}
+
+
+/* Role dialog */
