@@ -92,6 +92,47 @@ div.message > div.msg > div.from > span.un {
     background-position: top !important;
 }
 */
+/* WAIT LIST Button*/
+
+.fa.fa-clock-o:before {
+    content: url(https://i.imgur.com/UCMbTzR.gif);
+}
+
+.fa-times-circle:before {
+    content: url(https://i.imgur.com/2wJLUkk.gif);
+}
+
+.btn-no-dj-secondary__icon {
+    width: 40px;
+    height: 33px;
+    margin-right: 10px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.btn-no-dj-primary.btn-no-dj-secondary__bottom, .btn-no-dj-secondary.btn-no-dj-secondary__bottom {
+    padding-right: 20px;
+    background-color: #21c3bbbf;
+    min-height: 40px;
+    display: flex;
+    display: -webkit-flex;
+    justify-content: center;
+    -webkit-justify-content: center;
+    align-items: center;
+    -webkit-align-items: center;
+}
+
+    .btn-no-dj-primary.btn-no-dj-secondary__bottom, .btn-no-dj-secondary.btn-no-dj-secondary__bottom:hover {
+        padding-right: 20px;
+        background-color: #5f21c3f2;
+        min-height: 40px;
+        display: flex;
+        display: -webkit-flex;
+        justify-content: center;
+        -webkit-justify-content: center;
+        align-items: center;
+        -webkit-align-items: center;
+    }
 
 /* Chat */
 #chat .welcome {
