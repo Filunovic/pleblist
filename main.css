@@ -385,14 +385,14 @@ div.message > div.msg > div.from > span.un {
 }
 
 #user-rollover.id-15296765 .info .role span:after {
-    content: ' | Room Editor';
+    content: ' | Room Dev';
 }
 
 .id-15296765 .msg .from i.icon-chat-manager,
 #waitlist .list .user[data-uid="15296765"] .meta.is-staff .name .icon-chat-manager,
 #user-rollover.id-15296765 .info .role i.icon-chat-manager,
 #user-lists .list.room .user.id-15296765 .icon-chat-manager {
-    background: url("https://i.imgur.com/BOlIReZ.png") no-repeat !important;
+    background: url("https://i.imgur.com/p1VFKeA.png") no-repeat !important;
 }
 
 #user-rollover.id-15296765 .meta .thumb {
