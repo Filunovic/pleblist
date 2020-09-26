@@ -135,6 +135,12 @@ div.message > div.msg > div.from > span.un {
         -webkit-align-items: center;
     }
 
+#rs-eta {
+    font-weight: bold !important;
+    font-size: 13px;
+    animation: blcrzl 2s infinite !important;
+}
+
 /* Chat */
 #chat .welcome {
     color: #ff0000;
@@ -1118,6 +1124,52 @@ div.message > div.msg > div.from > span.un {
     }
 }
 
+/* Blik timer */
+@keyframes blcrzl {
+    0% {
+        color: #e3d30f;
+    }
+
+    10% {
+        color: #e3b90f;
+    }
+
+    20% {
+        color: #e39c0f;
+    }
+
+    30% {
+        color: #e3750f;
+    }
+
+    40% {
+        color: #e3600f;
+    }
+
+    50% {
+        color: #e33d0f;
+    }
+
+    60% {
+        color: #e3600f;
+    }
+
+    70% {
+        color: #e3750f;
+    }
+
+    80% {
+        color: #e39c0f;
+    }
+
+    90% {
+        color: #e3b90f;
+    }
+
+    100% {
+        color: #e3d30f;
+    }
+}
 
 /* Bouncer #3e3e3e */
 @keyframes bouncerdark {
