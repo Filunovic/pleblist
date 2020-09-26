@@ -61,7 +61,7 @@
     }
 /*User Background*/
 .cm.id-15296765::before {
-    background-image: url("https://i.imgur.com/QHIKZxp.png");
+    background-image: none;
     content: "";
     position: absolute;
     top: 0;

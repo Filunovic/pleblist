@@ -120,6 +120,7 @@ div.message > div.msg > div.from > span.un {
     -webkit-justify-content: center;
     align-items: center;
     -webkit-align-items: center;
+    border: #ae2cb9d4 4px solid;
 }
 
     .btn-no-dj-primary.btn-no-dj-secondary__bottom, .btn-no-dj-secondary.btn-no-dj-secondary__bottom:hover {
