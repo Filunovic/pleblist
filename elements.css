@@ -139,4 +139,145 @@
 }
 
 
-/* Role dialog */
+/* Playlist */
+.community .community__playlist--desktop, .community .community__playlist--mobile {
+    background-color: #27083ef2;
+}
+
+#playlist-panel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    overflow: hidden;
+    height: 54px;
+    background: #230527f0;
+}
+
+@media (min-width: 768px) #playlist-panel.playlist--override #playlist-menu {
+    height: calc(100% - 94px)!important;
+    width: 20%;
+    min-width: 280px;
+    max-width: 280px;
+    margin: 0 15px;
+    box-sizing: border-box;
+    background: rgb(38 2 57 / 68%);
+    border: black solid;
+}
+
+#playlist-panel.playlist--override #playlist-menu .menu .row {
+    height: auto;
+    background-color: rgb(57 3 61 / 33%);
+    padding: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border-top: 1px solid rgba(255,255,255,.1);
+    color: #fff;
+    opacity: .6;
+    transition: all .3s;
+}
+
+    #playlist-panel.playlist--override #playlist-menu .menu .row:hover {
+        height: auto;
+        background-color: #52055a;
+        padding: 15px;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        border-top: 1px solid rgba(255,255,255,.1);
+        color: #fff;
+        opacity: .6;
+        transition: all .3s;
+    }
+
+    #playlist-panel.playlist--override #playlist-menu .menu .row.selected {
+        height: auto;
+        background-color: rgb(203 16 216 / 33%) !important;
+        padding: 15px;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        border-top: 1px solid rgba(255,255,255,.1);
+        color: #efff00;
+        opacity: .6;
+        transition: all .3s;
+    }
+
+
+#playlist-panel.playlist--override #media-panel .media-list .jspContainer .jspPane .container-fluid .row .meta {
+    width: 40%;
+    position: relative;
+    top: auto;
+    left: auto;
+    right: auto;
+    bottom: auto;
+    flex-grow: 1;
+    margin-left: 10px;
+    margin-right: 0;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: center;
+    box-shadow: none;
+    border-bottom: black solid;
+    color: #fff;
+}
+
+#playlist-panel.playlist--override #search #search-bar {
+    position: relative;
+    top: auto;
+    left: auto;
+    right: auto;
+    bottom: auto;
+    margin: 0;
+    width: 100%;
+    background-color: #6c6c6c36;
+    border: none;
+    box-shadow: none;
+    display: flex;
+    flex-grow: 1;
+    justify-content: flex-start;
+    align-items: center;
+    height: 40px;
+}
+
+#playlist-panel.playlist--override #search .menu__wrapper #search-menu {
+    position: relative;
+    top: auto;
+    right: auto;
+    left: auto;
+    margin: 0;
+    background: #000000;
+    width: auto;
+}
+
+    #playlist-panel.playlist--override #search .menu__wrapper #search-menu .selected {
+        background: #6c6c6c00;
+        top: 13px;
+        height: 100%;
+        padding-left: 10px;
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+
+#playlist-panel.playlist--override #search #filter #filter-bar {
+    width: 100%;
+    height: 40px;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    box-shadow: none;
+    position: relative;
+    top: auto;
+    left: auto;
+    right: auto;
+    background-color: #6c6c6c36;
+}
+
+#playlist-panel.playlist--override #media-panel .media-list .jspContainer .jspPane .container .row.in-history, #playlist-panel.playlist--override #media-panel .media-list .jspContainer .jspPane .container-fluid .row.in-history {
+    background-color: rgb(255 0 0 / 15%);
+}
