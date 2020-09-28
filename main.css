@@ -771,32 +771,32 @@ div.message > div.msg > div.from > span.un {
 /* Baronhumus */
 #user-rollover.id-45902975 .username,
 #chat [data-cid^="45902975"] span.un.clickable {
-    animation: vip 1s infinite !important;
+    animation: twitchmod 1s infinite !important;
 }
 
 #user-rollover.id-45902975 .info .role span:before {
     content: '';
 }
 
-.id-45902975 .msg .from i.icon-chat-dj,
-#waitlist .list .user[data-uid="45902975"] .meta.is-staff .name .icon-chat-dj,
-#user-rollover.id-45902975 .info .role i.icon-chat-dj,
-#user-lists .list.room .user.id-45902975 .icon-chat-dj {
-    background: url("https://cdn.discordapp.com/attachments/728370089258123265/728600509564583977/VIP.png") no-repeat !important;
+.id-45902975 .msg .from i.icon-chat-bouncer,
+#waitlist .list .user[data-uid="45902975"] .meta.is-staff .name .icon-chat-bouncer,
+#user-rollover.id-45902975 .info .role i.icon-chat-bouncer,
+#user-lists .list.room .user.id-45902975 .icon-chat-bouncer {
+    background: url("https://cdn.discordapp.com/attachments/728370089258123265/728600505349177455/mod.jpg") no-repeat !important;
 }
 
 #user-rollover.id-45902975 .meta .thumb {
     border-color: #9402b5 !important;
 }
 
-.id-45902975 .msg .from.dj .un,
+.id-45902975 .msg .from.bouncer .un,
 .id-45902975 .from .un,
 #chat [data-cid^="45902975"] span.un.clickable,
-#waitlist .list .user[data-uid="45902975"] .meta.is-staff .name .icon-chat-dj + span,
+#waitlist .list .user[data-uid="45902975"] .meta.is-staff .name .icon-chat-bouncer + span,
 #user-rollover.id-45902975 .info .role span,
 #user-rollover.id-45902975 .meta .username,
 #user-lists .list.room .user.id-45902975 .name {
-    animation: vip 1s infinite !important;
+    animation: twitchmod 1s infinite !important;
 }
 
 #chat .cm.message.id-45902975,
