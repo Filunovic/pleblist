@@ -151,7 +151,7 @@
     display: none;
     overflow: hidden;
     height: 54px;
-    background: #230527f0;
+    background: #160218f0;
 }
 
 @media (min-width: 768px) #playlist-panel.playlist--override #playlist-menu {
