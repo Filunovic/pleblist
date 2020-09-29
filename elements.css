@@ -120,23 +120,24 @@
     background: #0000008c;
 }
 
-.dialog.destructive .button.cancel {
-    color: #f3f3f3;
-    background: linear-gradient(to bottom,#ff00008c 0,#54222294 100%);
+.dialog-frame .button.submit, .rs .button.submit {
+    color: #eee;
+    background: linear-gradient(to bottom,#32b722b5 0,#1bff0040 100%) !important;
 }
 
-.dialog.destructive .button.submit {
-    background: linear-gradient(to bottom,#32b722b5 0,#1bff0040 100%);
+    .dialog-frame .button.submit:hover, .rs .button.submit:hover {
+        background: linear-gradient(to bottom,#16cc00 0,#1bff006e 100%) !important;
+    }
+
+.dialog-frame .button.cancel {
+    color: #808691;
+    background: linear-gradient(to bottom,#ff00008c 0,#54222294 100%) !important;
 }
 
-.dialog.destructive .button.cancel:hover {
-    color: #f3f3f3;
-    background: linear-gradient(to bottom,#ff0000cf 0,#a21515a6 100%);
-}
-
-.dialog.destructive .button.submit:hover {
-    background: linear-gradient(to bottom,#16cc00 0,#1bff006e 100%);
-}
+    .dialog-frame .button.cancel:hover {
+        color: #808691;
+        background: linear-gradient(to bottom,#ff0000cf 0,#a21515a6 100%) !important;
+    }
 
 
 /* Playlist */
