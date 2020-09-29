@@ -130,12 +130,12 @@
     }
 
 .dialog-frame .button.cancel {
-    color: #808691;
+    color: #eee !important;
     background: linear-gradient(to bottom,#ff00008c 0,#54222294 100%) !important;
 }
 
     .dialog-frame .button.cancel:hover {
-        color: #808691;
+        color: #eee;
         background: linear-gradient(to bottom,#ff0000cf 0,#a21515a6 100%) !important;
     }
 
