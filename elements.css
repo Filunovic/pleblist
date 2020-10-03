@@ -96,9 +96,8 @@
 }
 /* Program */
 
-#rcs-style-anchor-0 {
+#rcs-style-anchor-1 {
     background-color: rgba(0, 0, 0, 0.7) !important;
-    background-image: url(https://i.imgur.com/8qU28Fi.png) !important;
     border-radius: 5px !important;
     border: 1px solid #9c339c !important;
     position: absolute;
@@ -113,12 +112,12 @@
     background-position: 0px 33px !important;
     max-width: 290px !important;
     max-height: 350px !important;
-    width: 290px;
-    height: 165px;
+    height: 35px;
+    width: 120px;
     transition: 0.5s;
 }
 
-    #rcs-style-anchor-0:before {
+    #rcs-style-anchor-1:before {
         display: block;
         position: absolute;
         top: 8px;
@@ -128,15 +127,61 @@
         color: #a61f9d;
     }
 
-    #rcs-style-anchor-0.toggled:before {
+    #rcs-style-anchor-1.toggled:before {
         content: '📅 Program';
     }
 
-    #rcs-style-anchor-0.toggled {
-        height: 35px !important;
-        width: 120px !important;
+    #rcs-style-anchor-1.toggled {
+        background-image: url(https://i.imgur.com/8qU28Fi.png) !important;
+        width: 290px !important;
+        height: 165px !important;
     }
 
+/*
+#rcs-style-anchor-0 {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+    border-radius: 5px !important;
+    border: 1px solid #d40000 !important;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 160px;
+    right: 355px !important;
+    z-index: 9;
+    cursor: pointer;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 33px !important;
+    max-width: 290px !important;
+    max-height: 350px !important;
+    height: 35px;
+    width: 120px;
+    transition: 0.5s;
+}
+
+    #rcs-style-anchor-0:before {
+        display: block;
+        position: absolute;
+        background-image: url(https://i.imgur.com/Y1hyjQz.png);
+        background-size: 35%;
+        background-repeat: no-repeat;
+        top: 8px;
+        left: 8px;
+        content: " ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‎YT FIX";
+        font-size: 16px;
+        color: #d40000;
+    }
+
+    #rcs-style-anchor-0.toggled:before {
+        content: ' ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‎YT FIX';
+    }
+
+    #rcs-style-anchor-0.toggled {
+        background-image: url(null) !important;
+        width: 290px !important;
+        height: 165px !important;
+    }
+    */
 /* Dialog */
 #dialog-alert, #dialog-confirm {
     width: 510px;
