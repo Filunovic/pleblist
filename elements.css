@@ -1,4 +1,4 @@
-/* Editace vzhledu elementu */
+﻿/* Editace vzhledu elementu */
 
 #user-lists .list.staff .group.host {
     position: relative;
@@ -94,6 +94,48 @@
     background-size: cover;
     margin: 0 auto 20px 0 0 !important;
 }
+/* Program */
+
+#rcs-style-anchor-0 {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+    background-image: url(https://i.imgur.com/8qU28Fi.png) !important;
+    border-radius: 5px !important;
+    border: 1px solid #9c339c !important;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 120px;
+    right: 355px !important;
+    z-index: 9;
+    cursor: pointer;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 33px !important;
+    max-width: 290px !important;
+    max-height: 350px !important;
+    width: 290px;
+    height: 165px;
+    transition: 0.5s;
+}
+
+    #rcs-style-anchor-0:before {
+        display: block;
+        position: absolute;
+        top: 8px;
+        left: 8px;
+        content: "📅 Program";
+        font-size: 16px;
+        color: #a61f9d;
+    }
+
+    #rcs-style-anchor-0.toggled:before {
+        content: '📅 Program';
+    }
+
+    #rcs-style-anchor-0.toggled {
+        height: 35px !important;
+        width: 120px !important;
+    }
 
 /* Dialog */
 #dialog-alert, #dialog-confirm {
