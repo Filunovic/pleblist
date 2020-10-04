@@ -481,6 +481,7 @@ div.message > div.msg > div.from > span.un {
 }
 
 /* Tichus */
+/*
 #user-rollover.id-48786549 .username,
 #chat [data-cid^="48786549-"] span.un.clickable {
     animation: manager 1s infinite !important;
@@ -527,7 +528,7 @@ div.message > div.msg > div.from > span.un {
 .emote.id-48786549 .text {
     animation: manager 1s infinite !important;
 }
-
+*/
 /* Peach */
 #user-rollover.id-48715698 .username,
 #chat [data-cid^="48715698-"] span.un.clickable {
