@@ -116,7 +116,7 @@
         top: 0px;
         left: 0px;
     }
-    /*Feyr*/
+    
 /*Feyr*/
 /* Profile Icon */
 
@@ -126,14 +126,14 @@
     left: -37px !important;
     width: 150px !important;
     height: 150px !important;
-    background: url(https://i.imgur.com/ZOQYGNd.png);
+    background: url(https://i.imgur.com/wOBooNS.png);
 }
 /*Small Icon Fix*/
 
 .id-5266523 .avatar-wrapper.thumb.small .avi,
 .id-5266523 .right-side-wrapper .thumb.small .avi,
 .id-5266523 .thumb.small .avi {
-    background: url(https://i.imgur.com/4nJsXzO.png) !important;
+    background: url(https://i.imgur.com/my9wVQ0.png) !important;
     left: -25px;
     top: -26px !important;
 }
