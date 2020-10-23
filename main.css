@@ -865,6 +865,101 @@ div.message > div.msg > div.from > span.un {
     animation: vip 1s infinite !important;
 }
 
+/* Corlasss */
+#user-rollover.id-48159817 .username,
+#chat [data-cid^="48159817"] span.un.clickable {
+    animation: twitchmod 1s infinite !important;
+}
+
+#user-rollover.id-48159817 .info .role span:before {
+    content: '';
+}
+
+.id-48159817 .msg .from i.icon-chat-bouncer,
+#waitlist .list .user[data-uid="48159817"] .meta.is-staff .name .icon-chat-bouncer,
+#user-rollover.id-48159817 .info .role i.icon-chat-bouncer,
+#user-lists .list.room .user.id-48159817 .icon-chat-bouncer {
+    background: url("https://cdn.discordapp.com/attachments/728370089258123265/728600505349177455/mod.jpg") no-repeat !important;
+}
+
+#user-rollover.id-48159817 .meta .thumb {
+    border-color: #038a46 !important;
+}
+
+.id-48159817 .msg .from.bouncer .un,
+.id-48159817 .from .un,
+#chat [data-cid^="48159817"] span.un.clickable,
+#waitlist .list .user[data-uid="48159817"] .meta.is-staff .name .icon-chat-bouncer + span,
+#user-rollover.id-48159817 .info .role span,
+#user-rollover.id-48159817 .meta .username,
+#user-lists .list.room .user.id-48159817 .name {
+    animation: twitchmod 1s infinite !important;
+}
+
+#chat .cm.message.id-48159817,
+#chat .cm.emote.id-48159817 {
+    border-left: #038a46 3px dotted !important;
+    border-right: #038a46 3px dotted !important;
+}
+
+    #chat .cm.message.id-48159817:hover,
+    #chat .cm.emote.id-48159817:hover {
+        border-left-style: solid !important;
+        border-right-style: solid !important;
+        display: inline-block !important;
+    }
+
+.emote.id-48159817 .text {
+    animation: twitchmod 1s infinite !important;
+}
+
+/* Vexter */
+#user-rollover.id-45932413 .username,
+#chat [data-cid^="45932413"] span.un.clickable {
+    animation: twitchmod 1s infinite !important;
+}
+
+#user-rollover.id-45932413 .info .role span:before {
+    content: '';
+}
+
+.id-45932413 .msg .from i.icon-chat-bouncer,
+#waitlist .list .user[data-uid="45932413"] .meta.is-staff .name .icon-chat-bouncer,
+#user-rollover.id-45932413 .info .role i.icon-chat-bouncer,
+#user-lists .list.room .user.id-45932413 .icon-chat-bouncer {
+    background: url("https://cdn.discordapp.com/attachments/728370089258123265/728600505349177455/mod.jpg") no-repeat !important;
+}
+
+#user-rollover.id-45932413 .meta .thumb {
+    border-color: #038a46 !important;
+}
+
+.id-45932413 .msg .from.bouncer .un,
+.id-45932413 .from .un,
+#chat [data-cid^="45932413"] span.un.clickable,
+#waitlist .list .user[data-uid="45932413"] .meta.is-staff .name .icon-chat-bouncer + span,
+#user-rollover.id-45932413 .info .role span,
+#user-rollover.id-45932413 .meta .username,
+#user-lists .list.room .user.id-45932413 .name {
+    animation: twitchmod 1s infinite !important;
+}
+
+#chat .cm.message.id-45932413,
+#chat .cm.emote.id-45932413 {
+    border-left: #038a46 3px dotted !important;
+    border-right: #038a46 3px dotted !important;
+}
+
+    #chat .cm.message.id-45932413:hover,
+    #chat .cm.emote.id-45932413:hover {
+        border-left-style: solid !important;
+        border-right-style: solid !important;
+        display: inline-block !important;
+    }
+
+.emote.id-45932413 .text {
+    animation: twitchmod 1s infinite !important;
+}
 
 /* Chat Fade */
 @keyframes fadein {
