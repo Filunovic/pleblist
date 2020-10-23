@@ -14,13 +14,13 @@
     "forceSmartVote": false
   },
   "ccc": {
-    "admin": "#FF3636",
-    "ambassador": "88E374",
+    "admin": null,
+    "ambassador": null,
     "host": null,
     "cohost": null,
     "manager": null,
     "bouncer": null,
-    "rdj": null,
+    "rdj": "#b50ea4",
     "subscriber": null,
     "silversubscriber": null,
     "friend": null,
@@ -28,7 +28,7 @@
   },
   "images": {
     "background": "https://i.imgur.com/1letADQ.png",
-    "playback": "https://i.imgur.com/psAcTWU.png",
+    "playback": "https://i.imgur.com/PjUnBUQ.png",
     "admin": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
     "ambassador": "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
     "host": "https://cdn.discordapp.com/attachments/728370089258123265/728373662712987761/admin.png",
@@ -174,8 +174,16 @@
     "arnoldhalt": "https://i.imgur.com/m3VsVmL.png",
     "billyready": "https://i.imgur.com/dQbuc5e.gif",
     "agrclown": "https://i.imgur.com/dIqPu17.png",
-    "vavrajam": " https://i.imgur.com/icO6ApN.gif",
-    "hyperkong": "https://i.imgur.com/JJ81O18.gif"
+    "vavrajam": "https://i.imgur.com/IqraffM.gif",
+    "hyperkong": "https://i.imgur.com/JJ81O18.gif",
+    "agrpeepo": "https://i.imgur.com/WqYIQ0O.png",
+    "vavrashrug": "https://i.imgur.com/lHpXb3m.gif",
+    "vavraagree": "https://i.imgur.com/3LDWnj9.gif",
+    "vavracoomer": "https://i.imgur.com/7YDCVix.gif",
+    "vavraclap": "https://i.imgur.com/b7fwuHS.gif",
+    "vavrametal": "https://i.imgur.com/oKhw9Un.gif",
+    "vavrat": "https://i.imgur.com/Fm2yul8.gif",
+    "agrs": "https://i.imgur.com/5pJiHsT.png"
 
 
 
