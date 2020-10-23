@@ -875,21 +875,21 @@ div.message > div.msg > div.from > span.un {
     content: '';
 }
 
-.id-48159817 .msg .from i.icon-chat-bouncer,
-#waitlist .list .user[data-uid="48159817"] .meta.is-staff .name .icon-chat-bouncer,
-#user-rollover.id-48159817 .info .role i.icon-chat-bouncer,
-#user-lists .list.room .user.id-48159817 .icon-chat-bouncer {
-    background: url("https://cdn.discordapp.com/attachments/728370089258123265/728600505349177455/mod.jpg") no-repeat !important;
+.id-48159817 .msg .from i.icon-chat-host,
+#waitlist .list .user[data-uid="48159817"] .meta.is-staff .name .icon-chat-host,
+#user-rollover.id-48159817 .info .role i.icon-chat-host,
+#user-lists .list.room .user.id-48159817 .icon-chat-host {
+    background: no-repeat !important;
 }
 
 #user-rollover.id-48159817 .meta .thumb {
     border-color: #038a46 !important;
 }
 
-.id-48159817 .msg .from.bouncer .un,
+.id-48159817 .msg .from.host .un,
 .id-48159817 .from .un,
 #chat [data-cid^="48159817"] span.un.clickable,
-#waitlist .list .user[data-uid="48159817"] .meta.is-staff .name .icon-chat-bouncer + span,
+#waitlist .list .user[data-uid="48159817"] .meta.is-staff .name .icon-chat-host + span,
 #user-rollover.id-48159817 .info .role span,
 #user-rollover.id-48159817 .meta .username,
 #user-lists .list.room .user.id-48159817 .name {
