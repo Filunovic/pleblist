@@ -144,6 +144,7 @@ div.message > div.msg > div.from > span.un {
 /* Chat */
 #chat .welcome {
     color: #ff0000;
+    font-size: 14px;
     border-top: #ff0000 2px dotted;
     border-left: #ff0000 2px dotted;
     border-bottom: #ff0000 2px dotted;
