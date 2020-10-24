@@ -11,6 +11,13 @@
     background: #9e780cab;
 }
 
+.icon-chat-host {
+    background-position: 0px 0px;
+    width: 15px;
+    height: 15px;
+    background: url(https://i.imgur.com/si31vw7.png);
+}
+
 #user-lists .list.staff .group.manager {
     position: relative;
     margin-top: 16px;
