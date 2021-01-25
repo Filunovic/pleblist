@@ -725,7 +725,7 @@ div.message > div.msg > div.from > span.un {
 /* aMorty */
 #user-rollover.id-51546705 .username,
 #chat [data-cid^="51546705"] span.un.clickable {
-    animation: broadcaster 1s infinite !important;
+    animation: vip 1s infinite !important;
 }
 
 #user-rollover.id-51546705 .info .role span:before {
@@ -960,6 +960,54 @@ div.message > div.msg > div.from > span.un {
 
 .emote.id-45932413 .text {
     animation: twitchmod 1s infinite !important;
+}
+
+/* HardpointNomad */
+#user-rollover.id-45790098 .username,
+#chat [data-cid^="45790098"] span.un.clickable {
+    animation: vip 1s infinite !important;
+}
+
+#user-rollover.id-45790098 .info .role span:before {
+    content: '';
+}
+
+.id-45790098 .msg .from i.icon-chat-bouncer,
+#waitlist .list .user[data-uid="45790098"] .meta.is-staff .name .icon-chat-bouncer,
+#user-rollover.id-45790098 .info .role i.icon-chat-bouncer,
+#user-lists .list.room .user.id-45790098 .icon-chat-bouncer {
+    background: url("https://i.imgur.com/90FiGqA.png") no-repeat !important;
+}
+
+#user-rollover.id-45790098 .meta .thumb {
+    border-color: #038a46 !important;
+}
+
+.id-45790098 .msg .from.bouncer .un,
+.id-45790098 .from .un,
+#chat [data-cid^="45790098"] span.un.clickable,
+#waitlist .list .user[data-uid="45790098"] .meta.is-staff .name .icon-chat-bouncer + span,
+#user-rollover.id-45790098 .info .role span,
+#user-rollover.id-45790098 .meta .username,
+#user-lists .list.room .user.id-45790098 .name {
+    animation: broadcaster 1s infinite !important;
+}
+
+#chat .cm.message.id-45790098,
+#chat .cm.emote.id-45790098 {
+    border-left: #038a46 3px dotted !important;
+    border-right: #038a46 3px dotted !important;
+}
+
+    #chat .cm.message.id-45790098:hover,
+    #chat .cm.emote.id-45790098:hover {
+        border-left-style: solid !important;
+        border-right-style: solid !important;
+        display: inline-block !important;
+    }
+
+.emote.id-45790098 .text {
+    animation: broadcaster 1s infinite !important;
 }
 
 /* Chat Fade */
