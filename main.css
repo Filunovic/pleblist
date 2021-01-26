@@ -395,21 +395,21 @@ div.message > div.msg > div.from > span.un {
     content: ' | Room Dev';
 }
 
-.id-15296765 .msg .from i.icon-chat-manager,
-#waitlist .list .user[data-uid="15296765"] .meta.is-staff .name .icon-chat-manager,
-#user-rollover.id-15296765 .info .role i.icon-chat-manager,
-#user-lists .list.room .user.id-15296765 .icon-chat-manager {
-    background: url("https://i.imgur.com/5f7e7AF.png") no-repeat !important;
+.id-15296765 .msg .from i.icon-chat-cohost,
+#waitlist .list .user[data-uid="15296765"] .meta.is-staff .name .icon-chat-cohost,
+#user-rollover.id-15296765 .info .role i.icon-chat-cohost,
+#user-lists .list.room .user.id-15296765 .icon-chat-cohost {
+    background: url("https://i.imgur.com/JORwcUr.png") no-repeat !important;
 }
 
 #user-rollover.id-15296765 .meta .thumb {
     border-color: #17d7e8 !important;
 }
 
-.id-15296765 .msg .from.manager .un,
+.id-15296765 .msg .from.cohost .un,
 .id-15296765 .from .un,
 #chat [data-cid^="15296765-"] span.un.clickable,
-#waitlist .list .user[data-uid="15296765"] .meta.is-staff .name .icon-chat-manager + span,
+#waitlist .list .user[data-uid="15296765"] .meta.is-staff .name .icon-chat-cohost + span,
 #user-rollover.id-15296765 .info .role span,
 #user-rollover.id-15296765 .meta .username,
 #user-lists .list.room .user.id-15296765 .name {
@@ -496,7 +496,7 @@ div.message > div.msg > div.from > span.un {
 #waitlist .list .user[data-uid="48786549"] .meta.is-staff .name .icon-chat-host,
 #user-rollover.id-48786549 .info .role i.icon-chat-host,
 #user-lists .list.room .user.id-48786549 .icon-chat-host {
-    background: url("https://i.imgur.com/si31vw7.png") no-repeat !important;
+    background: url("https://i.imgur.com/5f7e7AF.png") no-repeat !important;
 }
 
 #user-rollover.id-48786549 .meta .thumb {
