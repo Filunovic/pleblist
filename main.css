@@ -398,7 +398,7 @@ div.message > div.msg > div.from > span.un {
 .id-15296765 .msg .from i.icon-chat-host,
 #waitlist .list .user[data-uid="15296765"] .meta.is-staff .name .icon-chat-host,
 #user-rollover.id-15296765 .info .role i.icon-chat-host,
-#user-lists .list.room .user.id-15296765 .icon-chat-host {
+#user-lists .list.room .user.id-15296765 .icon-chat-cohost {
     background: url("https://i.imgur.com/JORwcUr.png") no-repeat !important;
 }
 
